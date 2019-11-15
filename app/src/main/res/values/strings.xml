@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kamus Kata Demo</string>
+
+    <string name="kata_angka">Angka</string>
+    <string name="kata_warna">Warna</string>
+    <string name="kata_keluarga">Keluarga</string>
+    <string name="kata_benda">Benda</string>
+</resources>
